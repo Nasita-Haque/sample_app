@@ -1,2 +1,0 @@
-class Tabemono < ApplicationRecord
-end
