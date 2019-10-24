@@ -1,0 +1,1 @@
+json.partial! "tabemonos/tabemono", tabemono: @tabemono
