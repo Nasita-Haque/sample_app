@@ -1,0 +1,2 @@
+module TabemonosHelper
+end
